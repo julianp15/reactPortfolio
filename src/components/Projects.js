@@ -12,12 +12,12 @@ export const Projects = () => {
   const projects = [
     {
       title: "Project Brute",
-      description: "Design & Development",
+      description: "Made using Flask, Python, SQL and deployed with AWS EC2.",
       imgUrl: projImg1,
     },
     {
       title: "microSales",
-      description: "Sales CRM tool for micro-enterprises.",
+      description: "Sales CRM tool for micro-enterprises. Develloped for uHacks hackathon with a team from school.",
       imgUrl: projImg3,
     },
     {
